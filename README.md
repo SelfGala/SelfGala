@@ -1,187 +1,74 @@
-<div align="center">
+<h1 align="center">Hi there 👋, I'm SelfGala</h1>
+<h3 align="center">A passionate developer from Hangzhou China</h3>
 
-  <!-- Knock Code Pictures -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  </picture>
+---
 
-  <!-- for beauty -->
-  <div>&nbsp;</div>
+## 🌱 关于我 | About Me
 
+- 🧑‍⚕️ 浙江大学 22 级机械工程 | 本科在读  
+  *Mechanical Engineering, Class of 2022, Zhejiang University*
+  
+- 🥬 三墩镇职业技术学院卷心菜  
+  *"Cabbage" of Sandun Vocational Institute*
 
-<!-- Dynamic Emojis -->
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun.png" alt="Sun" width="50" height="50" />  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" alt="Ringed Planet" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Red%20Apple.png" alt="Red Apple" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Peacock.png" alt="Peacock" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Four%20Leaf%20Clover.png" alt="Four Leaf Clover" width="55" height="55" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dove.png" alt="Dove" width="50" height="50" />
-</div>
+- 👨🏻‍🔬 0 栈工程师 / 对什么都感兴趣的编程白痴  
+  *"Zero-stack" engineer / A coding dummy who's curious about everything*
 
+- 🏓 乒乓球会握拍  
+  *I can properly hold a ping-pong paddle.*
 
-<!-- Welcome words -->
-<h1 style="color: #00FFFF;">Welcome to SelfGala's GitHub Universe 🌌</h1>
+- 🍸 业余调酒师（无毒）  
+  *Amateur mixologist who occasionally makes drinks (that are probably safe)*
 
-<!-- World Peaceful words -->
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=天天開心，+無限進步！)
+- 🐶 猫猫狗狗狂热爱好者  
+  *Cat and dog fanatic*
 
-<!-- Moon Emoji -->
-[![Moon.svg](https://moon-svg.minung.dev/moon.svg?date=2004-03-29&size=201&theme=ray&rotate=0)](https://moon-svg.minung.dev)
+---
 
-<!-- Dynamic Skills Logo -->
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
+## 💻 技术栈 | Tech Stack
 
-<!-- Little Logo -->
-<div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
-  <!-- 上四部分 -->
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity">
-      <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance">
-    </a>
-    <img src="https://img.shields.io/badge/maintainer-theMaintainer-blue" alt="Maintainer">
-    <a href="http://shields.io/">
-      <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" alt="Website shields.io">
-    </a>
-    <a href="https://GitHub.com/Naereen/ama">
-      <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask Me Anything !">
-    </a>
-  </div>
-  <!-- 下三部分 -->
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://GitHub.com/Naereen/ama.fr">
-      <img src="https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg" alt="Demandez moi n'importe quoi !">
-    </a>
-    <a href="https://github.com/Naereen/StrapDown.js/blob/master/LICENSE">
-      <img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg" alt="GitHub license">
-    </a>
-    <a href="https://blog.csdn.net/qq_60865111?type=blog">
-      <img src="https://img.shields.io/badge/Blog-CSDN-orange.svg" alt="Blog">
-    </a>
-  </div>
-</div>
+### 🔧 编程语言 | Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### 🖥️ 网页开发 | Web Technologies
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<!-- Alien Emoji -->
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="250" height="250" />
-</div>
+### 🛠 建模开发工具 | Tools & CAD
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6C37?style=for-the-badge&logo=autodesk&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E2211C?style=for-the-badge&logo=solidworks&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
+---
 
-<!-- Skills Emoji -->
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,rust,matlab,linux,github,pytorch,tensorflow,opencv,git,stackoverflow,visualstudio,vscode,pycharm,anaconda,raspberrypi,docker,vim,gmail,gcp&theme=dark&perline=7)](https://skillicons.dev)
-
-
-
-<!-- Stats Card -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SelfGala&show_icons=true&theme=radical)
-
-
-
-<!-- Blogs List -->
-# :orange_book: Latest Blog Posts :cactus:
-<!-- BLOG-POST-LIST:START -->
-## **暂时还没有内容更新，请稍后再来看看哦！✨**
-<!-- BLOG-POST-LIST:END -->
-
-
-<!-- Award List -->
-![trophy](https://github-profile-trophy.vercel.app/?username=SelfGala&row=1&column=5&theme=juicyfresh&no-frame=true&no-bg=true)
-
-
-
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=SelfGala&theme=tokyo-night" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SelfGala&theme=xcode" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=SelfGala&theme=tokyo-night" />
-      </picture>
-  </tr>
-</table>
-
-
-<!--
-**SelfGala/SelfGala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelfGala)](https://github.com/anuraghazra/github-readme-stats)
-
-
-profile-3d-contrib/profile-green-animate.svg
-样式：绿色动态主题
-特点：以绿色为主色调，带有动态动画效果，展示您的GitHub贡献记录（如提交、PR等）。
-profile-3d-contrib/profile-green.svg
-样式：绿色静态主题
-特点：与绿色动态版类似，但没有动画效果，适合静态展示。
-profile-3d-contrib/profile-season-animate.svg
-样式：季节动态主题
-特点：根据当前季节（春、夏、秋、冬）自动调整颜色和背景，并带有动态效果。
-profile-3d-contrib/profile-season.svg
-样式：季节静态主题
-特点：与季节动态版类似，但无动画，颜色随季节变化。
-profile-3d-contrib/profile-south-season-animate.svg
-样式：南半球季节动态主题
-特点：专为南半球用户设计，季节与北半球相反（例如北半球夏季时，南半球为冬季），带有动态效果。
-profile-3d-contrib/profile-south-season.svg
-样式：南半球季节静态主题
-特点：南半球季节主题的静态版本，无动画效果。
-profile-3d-contrib/profile-night-view.svg
-样式：夜景主题
-特点：以深色背景和星空效果展示，模拟夜间景观，静态展示。
-profile-3d-contrib/profile-night-green.svg
-样式：夜间绿色主题
-特点：夜景背景搭配绿色贡献块，静态展示。
-profile-3d-contrib/profile-night-rainbow.svg
-样式：夜间彩虹主题
-特点：夜景背景搭配彩虹色贡献块，静态展示。
-profile-3d-contrib/profile-gitblock.svg
-样式：Git块主题
-特点：以GitHub风格的方块形式展示贡献，静态展示。
-
-
-
-![](https://stats.justsong.cn/api/leetcode?username=SelfGala&cn=true)  leetcode
-
-
-
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
-<img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> 小徽章
-
-
+## 😶‍🌫️访问人数 | Visitors
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,pytorch,tensorflow,raspberrypi,rust,stackoverflow,visualstudio,vscode,pycharm,opencv,matlab,linux,gmail,github,git,gcp,docker，anaconda&theme=dark&perline=6" />
-  </a>
+  <img src="https://profile-counter.glitch.me/SelfGala/count.svg" alt="Visitor Count" />
 </p>
 
+<p align="center">
+  <i>感谢每一位来访的朋友！Thanks for stopping by 💖</i>
+</p>
 
+---
 
-![](https://img.shields.io/badge/Python-FFD749?style=for-the-badge&logo=python&logoColor=white)
+## 📈 GitHub数据 | GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SelfGala&show_icons=true&theme=default" width="450"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SelfGala&theme=default" width="450"/>
+</p>
 
+---
 
- 👋 
+## 📫 联系方式 | Connect with me
 
+<p align="center">
+  <a href="mailto:DZB180310@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
