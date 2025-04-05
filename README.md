@@ -34,7 +34,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Keep+Going+!)
 
 <!-- Moon Emoji -->
-[![Moon.svg](https://moon-svg.minung.dev/moon.svg?size=200&theme=ray&rotate=148)](https://moon-svg.minung.dev)
+[![Moon.svg](https://moon-svg.minung.dev/moon.svg?date=2004-03-29&size=201&theme=ray&rotate=0)](https://moon-svg.minung.dev)
 
 <!-- Dynamic Skills Logo -->
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
