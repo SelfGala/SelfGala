@@ -31,7 +31,7 @@
 <h1 style="color: #00FFFF;">Welcome to SelfGala's GitHub Universe 🌌</h1>
 
 <!-- World Peaceful words -->
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Keep+Going+!)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=天天開心，+無限進步！)
 
 <!-- Moon Emoji -->
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?date=2004-03-29&size=201&theme=ray&rotate=0)](https://moon-svg.minung.dev)
@@ -69,33 +69,14 @@
 </div>
 
 
-
-
-<!-- Motto -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=兴趣是前进唯一驱动力，Keep Going!&author=SelfGala"  />
-
-
-
 <!-- Alien Emoji -->
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="250" height="250" />
 </div>
 
 
-
-
 <!-- Skills Emoji -->
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,rust,matlab,linux,github,pytorch,tensorflow,opencv,git,stackoverflow,visualstudio,vscode,pycharm,anaconda,raspberrypi,docker,vim,gmail,gcp&theme=dark&perline=7)](https://skillicons.dev)
-
-
-
-
-
-
-<!-- Stats Words -->
-![Metrics](github-metrics.svg)
-
-
 
 
 
@@ -107,7 +88,7 @@
 <!-- Blogs List -->
 # :orange_book: Latest Blog Posts :cactus:
 <!-- BLOG-POST-LIST:START -->
-None
+## **暂时还没有内容更新，请稍后再来看看哦！✨**
 <!-- BLOG-POST-LIST:END -->
 
 
@@ -129,17 +110,11 @@ None
 </table>
 
 
-
-
-<!-- 3D Contribution -->
-![GitHub 3D Contribution](https://raw.githubusercontent.com/SelfGala/SelfGala/main/profile-3d-contrib/profile-night-rainbow.svg)
-
-
 <!--
-**BreCaspian/BreCaspian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SelfGala/SelfGala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreCaspian)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelfGala)](https://github.com/anuraghazra/github-readme-stats)
 
 
 profile-3d-contrib/profile-green-animate.svg
