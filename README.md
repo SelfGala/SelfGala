@@ -11,17 +11,14 @@
 - 🥬 三墩镇职业技术学院卷心菜  
   *"Cabbage" of Sandun Vocational Institute*
 
-- 👨🏻‍🔬 0 栈工程师 / 对什么都感兴趣的编程白痴  
-  *"Zero-stack" engineer / A coding dummy who's curious about everything*
+- 👨🏻‍🔬 0 栈工程师 / 只有隐私项目的编程白痴  
+  *"Zero-stack" engineer / Just the coding idiot with the privacy project*
 
 - 🏓 乒乓球会握拍  
   *I can properly hold a ping-pong paddle.*
 
 - 🍸 业余调酒师（无毒）  
   *Amateur mixologist who occasionally makes drinks (that are probably safe)*
-
-- 🐶 猫猫狗狗狂热爱好者  
-  *Cat and dog fanatic*
 
 ---
 
@@ -32,9 +29,11 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🖥️ 网页开发 | Web Technologies
+### 🖥️ Web 技术栈 | Web Tech Stack
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🛠 建模开发工具 | Tools & CAD
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6C37?style=for-the-badge&logo=autodesk&logoColor=white)
