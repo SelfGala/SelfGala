@@ -11,8 +11,8 @@
 - 🥬 三墩镇职业技术学院卷心菜  
   *"Cabbage" of Sandun Vocational Institute*
 
-- 👨🏻‍🔬 0 栈工程师 / 只有隐私项目的编程白痴  
-  *"Zero-stack" engineer / Just the coding idiot with the privacy project*
+- 👨🏻‍🔬 0 栈工程师 / 对什么都感兴趣的编程白痴  
+  *"Zero-stack" engineer / A programming idiot who's interested in everything*
 
 - 🏓 乒乓球会握拍  
   *I can properly hold a ping-pong paddle.*
