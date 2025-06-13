@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm SelfGala</h1>
+<h1 align="center">Hi there 👋, I'm Zibo</h1>
 <h3 align="center">A passionate developer from Hangzhou China</h3>
 
 ---
