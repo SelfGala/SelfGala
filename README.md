@@ -17,9 +17,6 @@
 - 🏓 乒乓球会握拍  
   *I can properly hold a ping-pong paddle.*
 
-- 🍸 业余调酒师（无毒）  
-  *Amateur mixologist who occasionally makes drinks (that are probably safe)*
-
 ---
 
 ## 💻 技术栈 | Tech Stack
