@@ -56,7 +56,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SelfGala&show_icons=true&theme=default" width="450"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SelfGala&theme=default" width="450"/>
 </p>
 
 ---
@@ -64,7 +63,7 @@
 ## 📫 联系方式 | Connect with me
 
 <p align="center">
-  <a href="mailto:DZB180310@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:zibo.22@intl.zju.edu.cn"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
