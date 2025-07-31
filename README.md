@@ -42,7 +42,7 @@
 
 ## 😶‍🌫️访问人数 | Visitors
 <p align="center">
-  <img src="https://profile-counter.glitch.me/SelfGala/count.svg" alt="Visitor Count" />
+  ![Visitor Count](https://komarev.com/ghpvc/?username=SelfGala&color=lightgrey)
 </p>
 
 <p align="center">
