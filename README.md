@@ -3,7 +3,7 @@
 
 ---
 
-## 🌱 关于我 | About Me
+##  关于我 | About Me
 
 - 🧑‍⚕️ 浙江大学 22 级机械工程 | 本科在读  
   *Mechanical Engineering, Class of 2022, Zhejiang University*
@@ -19,20 +19,20 @@
 
 ---
 
-## 💻 技术栈 | Tech Stack
+##  技术栈 | Tech Stack
 
-### 🔧 编程语言 | Programming Languages
+###  编程语言 | Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🖥️ Web 技术栈 | Web Tech Stack
+###  Web 技术栈 | Web Tech Stack
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🛠 建模开发工具 | Tools & CAD
+###  建模开发工具 | Tools & CAD
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6C37?style=for-the-badge&logo=autodesk&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-E2211C?style=for-the-badge&logo=solidworks&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
@@ -40,18 +40,12 @@
 
 ---
 
-## 😶‍🌫️访问人数 | Visitors
-<p align="center">
-  ![Visitor Count](https://komarev.com/ghpvc/?username=SelfGala&color=lightgrey)
-</p>
-
-<p align="center">
-  <i>感谢每一位来访的朋友！Thanks for stopping by 💖</i>
-</p>
+## 访问人数 | Visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=SelfGala&color=lightgrey)
 
 ---
 
-## 📈 GitHub数据 | GitHub Stats
+##  GitHub数据 | GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SelfGala&show_icons=true&theme=default" width="450"/>
