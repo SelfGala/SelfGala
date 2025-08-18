@@ -5,12 +5,6 @@
 
 ##  关于我 | About Me
 
-- 🧑‍⚕️ 浙江大学 22 级机械工程 | 本科在读  
-  *Mechanical Engineering, Class of 2022, Zhejiang University*
-  
-- 🥬 三墩镇职业技术学院卷心菜  
-  *"Cabbage" of Sandun Vocational Institute*
-
 - 👨🏻‍🔬 0 栈工程师 / 对什么都感兴趣的编程白痴  
   *"Zero-stack" engineer / A programming idiot who's interested in everything*
 
@@ -57,7 +51,7 @@
 ## 📫 联系方式 | Connect with me
 
 <p align="center">
-  <a href="mailto:zibo.22@intl.zju.edu.cn"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:DZB180310@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
