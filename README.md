@@ -1,49 +1,24 @@
-<h1 align="center">Hi there 👋, I'm Zibo</h1>
-<h3 align="center">A passionate developer from Hangzhou China</h3>
+<h2 align="center">👋 Hi there! I'm ZiboZibo</h2>
 
----
+<div align="center">
+  
+[![YouTube](https://img.shields.io/badge/-ZacharyLLM-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ZacharyLLM?sub_confirmation=1)
+[![Twitter](https://img.shields.io/badge/ZacharyHuang12-000000?logo=x&logoColor=white)](https://x.com/ZacharyHuang12)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/zachary-h-23aa37172/)
+[![GitHub](https://img.shields.io/badge/-zachary62-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zachary62)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@zh2408)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/zachary62)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff)](https://zacharyhuang.substack.com/)
 
-##  关于我 | About Me
+</div>
 
-- 👨🏻‍🔬 0 栈工程师 / 对什么都感兴趣的编程白痴  
-  *"Zero-stack" engineer / A programming idiot who's interested in everything*
-
-- 🏓 乒乓球会握拍  
-  *I can properly hold a ping-pong paddle.*
-
----
-
-##  技术栈 | Tech Stack
-
-###  编程语言 | Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-###  Web 技术栈 | Web Tech Stack
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-###  建模开发工具 | Tools & CAD
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6C37?style=for-the-badge&logo=autodesk&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-E2211C?style=for-the-badge&logo=solidworks&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
----
-
-## 访问人数 | Visitors
-![Visitor Count](https://komarev.com/ghpvc/?username=SelfGala&color=lightgrey)
-
----
-
-##  GitHub数据 | GitHub Stats
+Researcher at Zhejiang University. I currently work on VLA. I love Table tennis, Robotics. Previous: [以前的经历/学历].
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SelfGala&show_icons=true&theme=default" width="450"/>
-  <br/>
+  <img src="./images/doggo-doge.gif" alt="Doggo 1" width="100" />
+  <img src="./images/doggo-doge.gif" alt="Doggo 2" width="100" />
+  <img src="./images/doggo-doge.gif" alt="Doggo 3" width="100" />
 </p>
-
----
 
 ## 📫 联系方式 | Connect with me
 
