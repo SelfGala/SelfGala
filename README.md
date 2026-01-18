@@ -10,14 +10,17 @@
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/zachary62)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff)](https://zacharyhuang.substack.com/)
 
-</div>
+<br/>
 
-Researcher at Zhejiang University. I currently work on VLA. I love Table tennis, Robotics. Previous: [以前的经历/学历].
+Master's student at **Zhejiang University**. I currently work on **VLA Manipulation**.
+I love **Table Tennis** and **Robotics**.
+Previous: B.S. in Mechanical Engineering @ **ZJU** & **UIUC** (Focus on Robotics RL Locomotion).
 
+<br/>
 <p align="center">
-  <img src="./images/doggo-doge.gif" alt="Doggo 1" width="100" />
-  <img src="./images/doggo-doge.gif" alt="Doggo 2" width="100" />
-  <img src="./images/doggo-doge.gif" alt="Doggo 3" width="100" />
+  <img src="./Dog.gif" alt="Doggo 1" width="100" />
+  <img src="./Dog.gif" alt="Doggo 2" width="100" />
+  <img src="./Dog.gif" alt="Doggo 3" width="100" />
 </p>
 
 ## 📫 联系方式 | Connect with me
