@@ -2,8 +2,8 @@
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:DZB180310@outlook.com)
-[![Twitter](https://img.shields.io/badge/zibo24-000000?logo=x&logoColor=white)](https://x.com/zibo24)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:DZB180310@outlook.com)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white)](https://x.com/zibo24)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SelfGala)
 
 <br/>
