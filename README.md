@@ -8,7 +8,7 @@
 
 <br/>
 
-Master's student at **Zhejiang University**. I currently work on **VLA Manipulation**.
+Master's student at **Zhejiang University**. I currently work on **Robotics Manipulation**.
 I love **Table Tennis** and **Robotics**.
 Previous: B.S. in Mechanical Engineering @ **ZJU** & **UIUC** (Focus on Robotics RL Locomotion).
 
