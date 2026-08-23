@@ -8,9 +8,9 @@
 
 <br/>
 
-Master's student at **Zhejiang University**. I currently work on **VLA & Post Training**.
-I love **Table Tennis** and **Robotics**.
-Previous: B.S. in Mechanical Engineering @ **ZJU** & **UIUC** (Focus on Robotics RL Locomotion).
+Master's student at **Zhejiang University**. I currently work on **VLA & RL**.
+
+Previous: B.S. in Mechanical Engineering @ **ZJU** & **UIUC** (Focus on Robotics motion control).
 
 <br/>
 <p align="center">
