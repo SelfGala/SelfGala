@@ -13,8 +13,3 @@ Master's student at **Zhejiang University**. I currently work on **VLA & RL**.
 Previous: B.S. in Mechanical Engineering @ **ZJU** & **UIUC** (Focus on Robotics motion control).
 
 <br/>
-<p align="center">
-  <img src="./Dog.gif" alt="Doggo 2" width="100" />
-  <img src="./Dog.gif" alt="Doggo 2" width="100" />
-  <img src="./Dog.gif" alt="Doggo 3" width="100" />
-</p>
