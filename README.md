@@ -8,7 +8,7 @@
 
 <br/>
 
-Master's student at **Zhejiang University**. I currently work on **VLA & RL**.
+PhD student at **Zhejiang University**. I currently work on **VLA & RL**.
 
 Previous: B.S. in Mechanical Engineering @ **ZJU** & **UIUC** (Focus on Robotics motion control).
 
